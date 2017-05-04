@@ -2,6 +2,9 @@
   width: 50%;
   float: right;
   background-color: #c6e2ff;
+  border: 10px #f45843 solid;
+  padding: 12px;
+  margin: 6px;
 }
 h1 {
   text-align: center;
